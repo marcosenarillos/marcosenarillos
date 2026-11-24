@@ -50,6 +50,4 @@ addu bscs
 
 </a>  <img src="https://github.com/marcosenarillos/marcosenarillos/blob/main/icons/discord.png?raw=true" alt="Discord" width="20" height="20"/> `zen_ix` </a>
 
-</a>  <img src="https://github.com/marcosenarillos/marcosenarillos/blob/main/icons/steam.png?raw=true" alt="Steam" width="20" height="20"/> `zen` </a>
-
 ----
