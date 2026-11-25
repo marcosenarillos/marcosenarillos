@@ -1,7 +1,8 @@
 
 ## 🌐
 
-addu bscs
+addu bscs <br>
+cssec source code
 
 ## 🖥️
 
@@ -37,8 +38,7 @@ addu bscs
 <br/>
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=marcodotexe&theme=highcontrast" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marcosenarillos&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 ## 🛠️ 
 * [acadsistant](https://github.com/marcosenarillos/acadsistant) - academic planner website
 * [doomschooler](https://github.com/marcosenarillos/doomschooler) - academic doomscrolling website
@@ -46,8 +46,8 @@ addu bscs
 
 ## 📩
 
-</a>  <img src="https://github.com/marcosenarillos/marcosenarillos/blob/main/icons/gmail.png?raw=true" alt="GMail" width="20" height="20"/> `marcosenarillos@gmail.com` </a>
+</a>  <img src="https://github.com/marcosenarillos/marcosenarillos/blob/main/icons/gmail.png?raw=true" alt="GMail" width="20" height="20"/> [marcosenarillos@gmail.com](mailto:marcosenarillos@gmail.com) </a>
 
-</a>  <img src="https://github.com/marcosenarillos/marcosenarillos/blob/main/icons/discord.png?raw=true" alt="Discord" width="20" height="20"/> `zen_ix` </a>
+</a>  <img src="https://github.com/marcosenarillos/marcosenarillos/blob/main/icons/linkedin.png?raw=true" alt="LinkedIn" width="20" height="20"/> [Marco Sebastian Senarillos](https://www.linkedin.com/in/marco-senarillos/) </a>
 
 ----
